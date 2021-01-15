@@ -46,3 +46,8 @@
   rows: 20349
   cols: 62
   type: table
+- path: meta
+  name: meta
+  rows: 361
+  cols: 42
+  type: table
