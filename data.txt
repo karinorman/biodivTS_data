@@ -3,3 +3,8 @@
   rows: 2072220
   cols: 10
   type: table
+- path: amphibio
+  name: amphibio
+  rows: 6667
+  cols: 35
+  type: table
