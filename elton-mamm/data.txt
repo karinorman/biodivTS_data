@@ -1,0 +1,27 @@
+path:
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/30713639
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/30713641
+rows: 5372
+cols: 17
+columns:
+  id: character
+  sourceName: character
+  scientificName: character
+  diet_inv: numeric
+  diet_vend: numeric
+  diet_vect: numeric
+  diet_vfish: numeric
+  diet_vunk: numeric
+  diet_scav: numeric
+  diet_fruit: numeric
+  diet_nect: numeric
+  diet_seed: numeric
+  diet_planto: numeric
+  nocturnal: numeric
+  crepuscular: numeric
+  diurnal: numeric
+  bodymass_value: numeric
+type: table
+filenames:
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/30713639: data.csv
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/30713641: data.rds
