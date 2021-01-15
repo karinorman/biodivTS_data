@@ -8,3 +8,8 @@
   rows: 6667
   cols: 35
   type: table
+- path: elton-bird
+  name: elton-bird
+  rows: 9985
+  cols: 24
+  type: table
