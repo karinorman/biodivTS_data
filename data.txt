@@ -51,3 +51,8 @@
   rows: 361
   cols: 42
   type: table
+- path: rarefied-medians
+  name: rarefied-medians
+  rows: 19045
+  cols: 86
+  type: table
