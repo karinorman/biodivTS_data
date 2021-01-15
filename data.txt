@@ -41,3 +41,8 @@
   rows: 53
   cols: 11
   type: table
+- path: rarefied-metrics
+  name: rarefied-metrics
+  rows: 20349
+  cols: 62
+  type: table
