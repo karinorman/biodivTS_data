@@ -21,3 +21,8 @@
 - path: dgg
   name: dgg
   type: default
+- path: bt-grid-filtered
+  name: bt-grid-filtered
+  rows: 6098236
+  cols: 15
+  type: table
