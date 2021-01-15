@@ -1,0 +1,4 @@
+path: https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/30754814
+type: default
+filenames:
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/30754814: data.rds
