@@ -56,3 +56,8 @@
   rows: 19045
   cols: 86
   type: table
+- path: bt-grid
+  name: bt-grid
+  rows: 8547248
+  cols: 15
+  type: table
