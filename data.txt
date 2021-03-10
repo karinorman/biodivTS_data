@@ -61,3 +61,8 @@
   rows: 8547248
   cols: 15
   type: table
+- path: bt-grid-collate
+  name: bt-grid-collate
+  rows: 3834686
+  cols: 13
+  type: table

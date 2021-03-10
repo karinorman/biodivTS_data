@@ -1,0 +1,20 @@
+path:
+- https://github.com/karinorman/biodivTS_data/releases/download/bt-grid-collate-b72c1e8/data.csv
+- data.rds
+rows: 3834686
+cols: 13
+columns:
+  CLIMATE: factor
+  REALM: factor
+  TAXA: factor
+  StudyMethod: character
+  ABUNDANCE_TYPE: factor
+  BIOMASS_TYPE: factor
+  rarefyID: character
+  STUDY_ID: integer
+  YEAR: integer
+  cell: numeric
+  Species: character
+  Abundance: numeric
+  Biomass: numeric
+type: table
