@@ -61,3 +61,8 @@
   rows: 3834686
   cols: 13
   type: table
+- path: biotime-data
+  name: biotime-data
+  rows: 4825373
+  cols: 17
+  type: table
