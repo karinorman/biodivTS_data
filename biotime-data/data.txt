@@ -1,7 +1,7 @@
 path:
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/31813037
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/31813871
-rows: 4825373
+- https://github.com/karinorman/biodivTS_data/releases/download/biotime-data-5688e52/data.csv
+- https://github.com/karinorman/biodivTS_data/releases/download/biotime-data-5688e52/data.rds
+rows: 6810949
 cols: 17
 columns:
   id: character
@@ -22,6 +22,3 @@ columns:
   biomass: numeric
   scientificName: character
 type: table
-filenames:
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/31813037: data.csv
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/31813871: data.rds

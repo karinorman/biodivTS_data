@@ -1,6 +1,6 @@
 - path: biotime-data
   name: biotime-data
-  rows: 4825373
+  rows: 6810949
   cols: 17
   type: table
 - path: amphibio
