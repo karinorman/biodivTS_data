@@ -23,7 +23,7 @@
   type: table
 - path: bt-traitfiltered
   name: bt-traitfiltered
-  rows: 790796
+  rows: 800386
   cols: 15
   type: table
 - path: trait-ref
