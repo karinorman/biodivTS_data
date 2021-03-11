@@ -33,7 +33,7 @@
   type: table
 - path: study-table
   name: study-table
-  rows: 53
+  rows: 57
   cols: 11
   type: table
 - path: rarefied-metrics

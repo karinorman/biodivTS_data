@@ -1,4 +1,5 @@
 "study_id","n_plots","realm","climate","habitat","biome_map","taxa","organisms","start_year","end_year","coverage"
+39,20,"Terrestrial","Temperate","Deciduous forest","Temperate broadleaf and mixed forests","Birds","birds",1970,2015,0.8
 41,26,"Terrestrial","Temperate","Woodland","Temperate broadleaf and mixed forests","Birds","birds",1923,1940,0.875
 46,434,"Terrestrial","Temperate","Woodland","Temperate broadleaf and mixed forests","Birds","breeding bird pairs",1928,1979,0.956521739130435
 47,175,"Terrestrial","Temperate","Ponds","Temperate grasslands, savannas and shrublands","Birds","ducks",1952,1977,0.875
@@ -13,6 +14,7 @@
 166,47242,"Marine","Global","Oceanic waters","Multiple ecoregions","All","pelagic seabirds",1965,1992,0.993006993006993
 169,7520,"Marine","Temperate","Coastal habitats","Temperate shelf and seas ecoregions","All","mostly seabirds + some marine mammals",1987,2006,0.933333333333333
 171,249,"Marine","Temperate/Tropical","Multiple marine habitats","Multiple ecoregions","Mammals","Marine mammals + a few turtles",1988,2008,0.944444444444444
+172,9300,"Marine","Temperate","Oceanic waters","Temperate shelf and seas ecoregions","All","Cetaceans. seabirds + turtles",1998,2009,0.777777777777778
 195,139369,"Terrestrial","Temperate","Mixed","Temperate grasslands, savannas and shrublands","Birds","Breeding birds",1978,2007,0.99492385786802
 217,70827,"Terrestrial","Temperate","Mixed","Multiple ecoregions","Birds","Land birds",1992,2006,0.982300884955752
 308,34445,"Terrestrial","Temperate","Woodland","Temperate broadleaf and mixed forests","Mammals","small mammals",1979,1999,0.928571428571429
@@ -25,6 +27,7 @@
 333,2591,"Terrestrial","Temperate","Tallgrass prairie gallery forest and riparian edge","Temperate grasslands, savannas and shrublands","Birds","birds",1981,2009,0.972222222222222
 337,179,"Terrestrial","Temperate","upper montane forests above 2700 feet in the North","Temperate broadleaf and mixed forests","Birds","Birds",2000,2010,0.916666666666667
 339,986,"Terrestrial","Temperate","Forest","Temperate broadleaf and mixed forests","Birds","birds",1953,2009,0.96969696969697
+341,1522,"Terrestrial","Temperate/Tropical","Mixed","Tropical and subtropical moist broadleaf forests","Amphibians","Anura",2014,2016,0.9
 348,137,"Terrestrial","Temperate/Tropical","Restinga","Tropical and subtropical moist broadleaf forests","Mammals","Bat",2006,2016,0.909090909090909
 357,1058,"Terrestrial","Temperate","Praire","Temperate grasslands, savannas and shrublands","Mammals","Small mammal",1994,2006,1
 362,20817,"Terrestrial","Tropical","savanna","Tropical and subtropical grasslands, savannas and shrublands","Mammals","small mammals",2009,2012,0.916666666666667
@@ -36,6 +39,7 @@
 376,16181,"Terrestrial","Temperate","Forest and grassland","Temperate broadleaf and mixed forests","Birds","Birds",2004,2008,0.979591836734694
 377,69332,"Terrestrial","Temperate","Forest and grassland","Temperate broadleaf and mixed forests","Birds","Birds",2008,2013,0.975247524752475
 382,201,"Terrestrial","Temperate","Mixed Conifer-Hardwood Forest","Temperate broadleaf and mixed forests","Mammals","Mammals",1955,1967,0.857142857142857
+403,270,"Freshwater","Tropical","Natural ponds and small dams","Small lake ecosystems","Amphibians","Tadpole",1989,1995,0.8125
 420,846,"Terrestrial","Polar/Temperate","Scandinavian taiga","Tundra","Birds","Birds",1964,2001,0.973684210526316
 439,278,"Terrestrial","Temperate","pine forest","Temperate grasslands, savannas and shrublands","Birds","birds",1985,1997,0.961538461538462
 440,474,"Terrestrial","Temperate","pine-birch forest","Temperate grasslands, savannas and shrublands","Birds","birds",1985,1997,0.96969696969697

@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 53
+rows: 57
 cols: 11
 columns:
   study_id: integer
