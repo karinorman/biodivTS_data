@@ -16,11 +16,6 @@
 - path: dgg
   name: dgg
   type: default
-- path: bt-grid-filtered
-  name: bt-grid-filtered
-  rows: 6098236
-  cols: 15
-  type: table
 - path: bt-traitfiltered
   name: bt-traitfiltered
   rows: 800386
