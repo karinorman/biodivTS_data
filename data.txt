@@ -43,8 +43,8 @@
   type: table
 - path: rarefied-medians
   name: rarefied-medians
-  rows: 19045
-  cols: 86
+  rows: 19258
+  cols: 82
   type: table
 - path: bt-grid
   name: bt-grid

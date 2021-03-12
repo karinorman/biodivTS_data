@@ -1,8 +1,8 @@
 path:
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/30757570
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/30757595
-rows: 19045
-cols: 86
+- data.csv
+- data.rds
+rows: 19258
+cols: 82
 columns:
   rarefyID: character
   STUDY_ID: integer
@@ -77,10 +77,6 @@ columns:
   cent_long: numeric
   abundance_type: factor
   BROAD_TYPE: character
-  cYEAR: numeric
-  logS: numeric
-  logN: numeric
-  logENSPIE: numeric
   taxa_mod: integer
   climate_mod: character
   Jsim_01: numeric
@@ -91,6 +87,3 @@ columns:
   Jtu_01_func: numeric
   Jne_01_func: numeric
 type: table
-filenames:
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/30757570: data.csv
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/30757595: data.rds
