@@ -1,5 +1,5 @@
 path:
-- https://github.com/karinorman/biodivTS_data/releases/download/bt-traitfiltered-0088d79/data.csv
+- https://github.com/karinorman/biodivTS_data/releases/download/bt-traitfiltered-cc582dd/data.csv
 - data.rds
 rows: 800386
 cols: 15
