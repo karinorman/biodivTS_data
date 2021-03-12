@@ -66,3 +66,7 @@
   rows: 11112
   cols: 15
   type: table
+- path: rarefied_medians
+  name: rarefied_medians
+  extension: ''
+  type: files
