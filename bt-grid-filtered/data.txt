@@ -1,0 +1,22 @@
+path:
+- data.csv
+- data.rds
+rows: 11112
+cols: 15
+columns:
+  Species: character
+  CLIMATE: factor
+  REALM: factor
+  TAXA: factor
+  StudyMethod: character
+  ABUNDANCE_TYPE: factor
+  BIOMASS_TYPE: factor
+  ObsEventID: character
+  rarefyID: character
+  STUDY_ID: integer
+  YEAR: integer
+  PLOT: factor
+  cell: numeric
+  Abundance: numeric
+  Biomass: numeric
+type: table

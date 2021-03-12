@@ -61,3 +61,8 @@
   rows: 4825373
   cols: 17
   type: table
+- path: bt-grid-filtered
+  name: bt-grid-filtered
+  rows: 11112
+  cols: 15
+  type: table
