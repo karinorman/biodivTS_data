@@ -1,7 +1,7 @@
 path:
-- https://github.com/karinorman/biodivTS_data/releases/download/bt-traitfiltered-cc582dd/data.csv
-- data.rds
-rows: 800386
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33836554
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33836637
+rows: 788256
 cols: 15
 columns:
   species: character
@@ -20,3 +20,6 @@ columns:
   abundance: numeric
   biomass: numeric
 type: table
+filenames:
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33836554: data.csv
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33836637: data.rds

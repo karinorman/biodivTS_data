@@ -18,7 +18,7 @@
   type: default
 - path: bt-traitfiltered
   name: bt-traitfiltered
-  rows: 800386
+  rows: 788256
   cols: 15
   type: table
 - path: trait-ref
