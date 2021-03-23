@@ -1,13 +1,13 @@
 path:
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33836554
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33836637
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33885350
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33885923
 rows: 788256
 cols: 15
 columns:
   species: character
   climate: factor
   realm: factor
-  taxa: factor
+  taxa: character
   studymethod: character
   abundance_type: factor
   biomass_type: factor
@@ -21,5 +21,5 @@ columns:
   biomass: numeric
 type: table
 filenames:
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33836554: data.csv
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33836637: data.rds
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33885350: data.csv
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/33885923: data.rds
