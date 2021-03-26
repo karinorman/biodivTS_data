@@ -70,3 +70,8 @@
   name: rarefied_medians
   extension: ''
   type: files
+- path: null-table
+  name: null-table
+  rows: 427308
+  cols: 10
+  type: table
