@@ -1,8 +1,8 @@
 path:
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34051581
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34051636
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34056775
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34056842
 rows: 944305
-cols: 12
+cols: 14
 columns:
   rarefyID: character
   SamplePool: integer
@@ -16,7 +16,9 @@ columns:
   rarefied: logical
   metric: character
   value: numeric
+  n_missing_nulls: integer
+  commplete_null_samps: character
 type: table
 filenames:
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34051581: data.csv
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34051636: data.rds
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34056775: data.csv
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34056842: data.rds
