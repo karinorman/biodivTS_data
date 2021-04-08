@@ -75,3 +75,7 @@
   rows: 564096
   cols: 10
   type: table
+- path: null_table
+  name: null_table
+  extension: ''
+  type: files
