@@ -1,5 +1,5 @@
 path:
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34665205
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34675705
 - data.rds
 rows: 564096
 cols: 10
@@ -16,5 +16,5 @@ columns:
   upperCI: numeric
 type: table
 filenames:
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34665205: data.csv
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34675705: data.csv
   data.rds: data.rds
