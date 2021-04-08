@@ -1,20 +1,20 @@
 path:
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34009530
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34009624
-rows: 427308
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34665205
+- data.rds
+rows: 564096
 cols: 10
 columns:
   year: numeric
   rarefyid: character
+  rarefy_resamp: numeric
   metric: character
   mean: numeric
   sd: numeric
-  rarefy_resamp: numeric
   richness: numeric
   se: numeric
   lowerCI: numeric
   upperCI: numeric
 type: table
 filenames:
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34009530: data.csv
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34009624: data.rds
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34665205: data.csv
+  data.rds: data.rds

@@ -72,6 +72,6 @@
   type: files
 - path: null-table
   name: null-table
-  rows: 427308
+  rows: 564096
   cols: 10
   type: table
