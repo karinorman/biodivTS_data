@@ -1,0 +1,24 @@
+path:
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34719026
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34719031
+rows: 25346
+cols: 14
+columns:
+  id: numeric
+  taxonID: numeric
+  scientificName: character
+  acceptedNameUsage: character
+  kingdom: character
+  phylum: character
+  class: character
+  order: character
+  family: character
+  taxonRank: character
+  taxonomicStatus: character
+  isInvasive: character
+  habitat: character
+  countryCode: character
+type: table
+filenames:
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34719026: data.csv
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34719031: data.rds

@@ -79,3 +79,8 @@
   name: null_table
   extension: ''
   type: files
+- path: invasive-data
+  name: invasive-data
+  rows: 25346
+  cols: 14
+  type: table
