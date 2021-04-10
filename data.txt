@@ -84,3 +84,8 @@
   rows: 25346
   cols: 14
   type: table
+- path: country-data-bind
+  name: country-data-bind
+  rows: 57
+  cols: 3
+  type: table

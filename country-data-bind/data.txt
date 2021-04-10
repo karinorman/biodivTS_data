@@ -1,0 +1,13 @@
+path:
+- data.csv
+- data.rds
+rows: 57
+cols: 3
+columns:
+  study_id: integer
+  country: character
+  code: character
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
