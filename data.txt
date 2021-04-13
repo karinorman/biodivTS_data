@@ -89,3 +89,8 @@
   rows: 57
   cols: 3
   type: table
+- path: yearly-distinct
+  name: yearly-distinct
+  rows: 1289922
+  cols: 5
+  type: table

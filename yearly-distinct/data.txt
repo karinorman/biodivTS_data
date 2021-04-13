@@ -1,0 +1,15 @@
+path:
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34963409
+- data.rds
+rows: 1289922
+cols: 5
+columns:
+  year: character
+  rarefyid: character
+  rarefy_resamp: integer
+  species: character
+  distinctiveness: numeric
+type: table
+filenames:
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/34963409: data.csv
+  data.rds: data.rds
