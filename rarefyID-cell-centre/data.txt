@@ -1,0 +1,15 @@
+path:
+- data.csv
+- data.rds
+rows: 147480
+cols: 5
+columns:
+  STUDY_ID: integer
+  rarefyID: character
+  cell_extent: numeric
+  rarefyID_x: numeric
+  rarefyID_y: numeric
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds

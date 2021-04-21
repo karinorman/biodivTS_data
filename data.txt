@@ -94,3 +94,8 @@
   rows: 1289922
   cols: 5
   type: table
+- path: rarefyID-cell-centre
+  name: rarefyID-cell-centre
+  rows: 147480
+  cols: 5
+  type: table
