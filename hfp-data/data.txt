@@ -1,0 +1,14 @@
+path:
+- data.csv
+- data.rds
+rows: 3514
+cols: 4
+columns:
+  STUDY_ID: integer
+  rarefyID: character
+  year: character
+  hfp: numeric
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
