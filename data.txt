@@ -104,3 +104,8 @@
   rows: 294960
   cols: 4
   type: table
+- path: model-data
+  name: model-data
+  rows: 955417
+  cols: 25
+  type: table

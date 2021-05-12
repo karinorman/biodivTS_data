@@ -1,0 +1,35 @@
+path:
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/36881149
+- data.rds
+rows: 955417
+cols: 25
+columns:
+  rarefyID: character
+  samplepool: integer
+  samplen: numeric
+  num_years: integer
+  duration: numeric
+  startyear: integer
+  endyear: integer
+  year: numeric
+  cell: numeric
+  rarefied: logical
+  metric: character
+  value: numeric
+  n_missing_nulls: integer
+  commplete_null_samps: character
+  logvalue: numeric
+  study_id: character
+  taxa: character
+  realm: factor
+  climate: factor
+  habitat: factor
+  protected_area: logical
+  biome_map: factor
+  year_scaled: matrix
+  scale_center: numeric
+  scale: numeric
+type: table
+filenames:
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/36881149: data.csv
+  data.rds: data.rds
