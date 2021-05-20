@@ -33,7 +33,7 @@
   type: table
 - path: rarefied-metrics
   name: rarefied-metrics
-  rows: 959071
+  rows: 959274
   cols: 14
   type: table
 - path: meta
