@@ -106,6 +106,6 @@
   type: table
 - path: model-data
   name: model-data
-  rows: 955417
+  rows: 176059
   cols: 25
   type: table
