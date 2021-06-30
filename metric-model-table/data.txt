@@ -1,0 +1,16 @@
+path:
+- data.csv
+- data.rds
+rows: 6
+cols: 6
+columns:
+  metric: character
+  model: list
+  estimate: numeric
+  std.error: numeric
+  df: numeric
+  p.value: numeric
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds

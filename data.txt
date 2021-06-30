@@ -109,3 +109,8 @@
   rows: 176059
   cols: 25
   type: table
+- path: metric-model-table
+  name: metric-model-table
+  rows: 6
+  cols: 6
+  type: table
