@@ -1,16 +1,22 @@
 path:
-- data.csv
-- data.rds
-rows: 6
-cols: 6
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/41295910
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/41295919
+rows: 225
+cols: 12
 columns:
-  metric: character
-  model: list
+  effect: character
+  group: character
+  term: character
   estimate: numeric
   std.error: numeric
+  statistic: numeric
   df: numeric
   p.value: numeric
+  metric: character
+  model: list
+  model_id: character
+  warning: character
 type: table
 filenames:
-  data.csv: data.csv
-  data.rds: data.rds
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/41295910: data.csv
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/41295919: data.rds

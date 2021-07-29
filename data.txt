@@ -111,6 +111,6 @@
   type: table
 - path: metric-model-table
   name: metric-model-table
-  rows: 6
-  cols: 6
+  rows: 225
+  cols: 12
   type: table
