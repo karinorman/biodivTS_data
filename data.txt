@@ -114,3 +114,8 @@
   rows: 225
   cols: 12
   type: table
+- path: re-slopes
+  name: re-slopes
+  rows: 320
+  cols: 12
+  type: table

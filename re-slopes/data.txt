@@ -1,0 +1,22 @@
+path:
+- data.csv
+- data.rds
+rows: 320
+cols: 12
+columns:
+  level: character
+  cond.estimate: numeric
+  cond.std.error: numeric
+  estimate: numeric
+  cond.var: numeric
+  var: numeric
+  std.error: numeric
+  upr.ci: numeric
+  lwr.ci: numeric
+  sig: logical
+  metric: character
+  model_id: character
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
