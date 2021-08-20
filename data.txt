@@ -119,3 +119,8 @@
   rows: 320
   cols: 12
   type: table
+- path: slope-models
+  name: slope-models
+  rows: 20
+  cols: 7
+  type: table
