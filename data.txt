@@ -124,3 +124,7 @@
   rows: 20
   cols: 7
   type: table
+- path: re_slopes
+  name: re_slopes
+  extension: ''
+  type: files
