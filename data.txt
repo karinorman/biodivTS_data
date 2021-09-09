@@ -127,3 +127,8 @@
   name: model_data
   extension: ''
   type: files
+- path: metric-model-table
+  name: metric-model-table
+  rows: 225
+  cols: 13
+  type: table
