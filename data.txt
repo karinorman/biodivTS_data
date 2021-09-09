@@ -128,3 +128,7 @@
   name: re_slopes
   extension: ''
   type: files
+- path: model_data
+  name: model_data
+  extension: ''
+  type: files
