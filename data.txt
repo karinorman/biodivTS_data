@@ -109,11 +109,6 @@
   rows: 176059
   cols: 25
   type: table
-- path: metric-model-table
-  name: metric-model-table
-  rows: 225
-  cols: 13
-  type: table
 - path: re-slopes
   name: re-slopes
   rows: 320
