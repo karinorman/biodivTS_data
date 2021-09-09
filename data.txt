@@ -112,7 +112,7 @@
 - path: metric-model-table
   name: metric-model-table
   rows: 225
-  cols: 12
+  cols: 13
   type: table
 - path: re-slopes
   name: re-slopes
