@@ -117,3 +117,8 @@
   rows: 4825373
   cols: 17
   type: table
+- path: amphibio
+  name: amphibio
+  rows: 6667
+  cols: 35
+  type: table
