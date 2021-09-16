@@ -8,11 +8,6 @@
   rows: 9985
   cols: 24
   type: table
-- path: elton-mamm
-  name: elton-mamm
-  rows: 5372
-  cols: 17
-  type: table
 - path: dgg
   name: dgg
   type: default
