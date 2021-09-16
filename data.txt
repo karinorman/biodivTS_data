@@ -1,8 +1,3 @@
-- path: amphibio
-  name: amphibio
-  rows: 6667
-  cols: 35
-  type: table
 - path: dgg
   name: dgg
   type: default
