@@ -132,3 +132,7 @@
   rows: 4825373
   cols: 17
   type: table
+- path: study_table
+  name: study_table
+  extension: ''
+  type: files
