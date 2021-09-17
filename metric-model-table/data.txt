@@ -1,6 +1,6 @@
 path:
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045388
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045401
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045669
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045693
 rows: 225
 cols: 13
 columns:
@@ -19,5 +19,5 @@ columns:
   warning: character
 type: table
 filenames:
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045388: data.csv
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045401: data.rds
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045669: data.csv
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045693: data.rds
