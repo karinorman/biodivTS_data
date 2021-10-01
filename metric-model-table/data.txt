@@ -1,7 +1,7 @@
 path:
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045771
-- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045777
-rows: 225
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/46056118
+- https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/46057130
+rows: 360
 cols: 13
 columns:
   effect: character
@@ -15,9 +15,9 @@ columns:
   metric: character
   model: list
   model_id: character
-  formula: character
   warning: character
+  formula: character
 type: table
 filenames:
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045771: data.csv
-  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/45045777: data.rds
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/46056118: data.csv
+  https://api.github.com/repos/karinorman/biodivTS_data/releases/assets/46057130: data.rds

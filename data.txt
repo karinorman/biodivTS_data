@@ -133,6 +133,6 @@
   type: files
 - path: metric-model-table
   name: metric-model-table
-  rows: 225
+  rows: 360
   cols: 13
   type: table
