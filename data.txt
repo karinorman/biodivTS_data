@@ -131,3 +131,8 @@
   name: study_table
   extension: ''
   type: files
+- path: metric-model-table
+  name: metric-model-table
+  rows: 360
+  cols: 13
+  type: table
