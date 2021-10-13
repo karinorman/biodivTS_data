@@ -131,3 +131,7 @@
   rows: 360
   cols: 13
   type: table
+- path: meta
+  name: meta
+  extension: ''
+  type: files
