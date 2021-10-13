@@ -21,10 +21,6 @@
   rows: 1261541
   cols: 14
   type: table
-- path: meta
-  name: meta
-  extension: ''
-  type: files
 - path: rarefied-medians
   name: rarefied-medians
   rows: 19258
