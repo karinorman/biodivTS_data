@@ -131,3 +131,8 @@
   rows: 632
   cols: 15
   type: table
+- path: meta
+  name: meta
+  rows: 361
+  cols: 42
+  type: table
