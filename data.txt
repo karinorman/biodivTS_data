@@ -130,3 +130,8 @@
   name: meta
   extension: ''
   type: files
+- path: metric-model-table
+  name: metric-model-table
+  rows: 632
+  cols: 15
+  type: table
