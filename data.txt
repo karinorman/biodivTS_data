@@ -128,8 +128,9 @@
   type: files
 - path: meta
   name: meta
-  extension: ''
-  type: files
+  rows: 361
+  cols: 42
+  type: table
 - path: metric-model-table
   name: metric-model-table
   rows: 632
