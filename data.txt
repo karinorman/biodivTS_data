@@ -126,11 +126,6 @@
   name: study_table
   extension: ''
   type: files
-- path: meta
-  name: meta
-  rows: 361
-  cols: 42
-  type: table
 - path: metric-model-table
   name: metric-model-table
   rows: 632
